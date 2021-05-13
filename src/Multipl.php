@@ -1,6 +1,6 @@
 <?php
 
-namespace \math;
+namespace igorvikn\math;
 
 
 class Multipl
