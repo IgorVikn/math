@@ -1,14 +1,14 @@
 <?php
 
-namespace igorvikn\math;
+namespace \math;
 
-class Multipl 
+
+class Multipl
 {
 	public function multiply($a, $b)
 	{
 		return $a * $b;
 	}
-
 }
 
 
