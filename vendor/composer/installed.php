@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '8bdfdf23c5bb99c03180c50823dee93382949598',
+    'reference' => '2542162044f064db8bcf0c3041f0c9a70f34bb19',
     'name' => 'igorvikn/math',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '8bdfdf23c5bb99c03180c50823dee93382949598',
+      'reference' => '2542162044f064db8bcf0c3041f0c9a70f34bb19',
     ),
   ),
 );
